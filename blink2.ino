@@ -1,4 +1,3 @@
-// Define the pin where the external LED is connected
 const int ledPin = 9;
  // You can change this to the pin you're using
 
