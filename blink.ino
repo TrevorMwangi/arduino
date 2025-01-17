@@ -11,3 +11,4 @@ void loop() {
   digitalWrite(LED_BUILTIN, LOW);   // turn the LED off by making the voltage LOW
   delay(1000);                      // wait for a second
 }
+ // this works on the built in LED on the Arduino board
